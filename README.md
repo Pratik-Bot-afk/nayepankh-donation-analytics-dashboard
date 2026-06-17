@@ -137,23 +137,23 @@ Features:
 
 ### Executive Summary
 
-(Add Screenshot Here)
+![Executive Summary](Screenshots/Executive_Summary.jpg)
 
 ### Donor Analytics
 
-(Add Screenshot Here)
+![Donor Analytics](Screenshots/Donor_Analytics.jpg)
 
 ### Campaign Analytics
 
-(Add Screenshot Here)
+![Campaign Analytics](Screenshots/Campaign_Analytics.jpg)
 
 ### Geographic Analytics
 
-(Add Screenshot Here)
+![Geographic Analytics](Screenshots/Geographic_Analytics.jpg)
 
 ### Payment Analytics
 
-(Add Screenshot Here)
+![Payment Analytics](Screenshots/Payment_Analytics.jpg)
 
 ---
 
